@@ -1,0 +1,5 @@
+function isMajority(){
+}
+
+function inCompulsoryEducation(){
+}
