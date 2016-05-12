@@ -3,6 +3,6 @@ describe("nor", function(){
     expect(nor(true, true)).to.not.be.ok();
     expect(nor(true, false)).to.not.be.ok();
     expect(nor(false, true)).to.not.be.ok();
-    expect(nor(true, true)).to.be.ok();
+    expect(nor(false, false)).to.be.ok();
   });
 });
